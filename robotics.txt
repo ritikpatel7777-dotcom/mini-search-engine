@@ -1,0 +1,5 @@
+Robotics combines mechanical engineering, electronics, programming, and artificial intelligence.
+Robots can be used in manufacturing, healthcare, agriculture, and exploration.
+Sensors help robots understand their environment.
+Path planning and control algorithms help robots move safely.
+Artificial intelligence can make robots more autonomous.

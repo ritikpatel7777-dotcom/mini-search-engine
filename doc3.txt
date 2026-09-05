@@ -1,0 +1,4 @@
+Data structures are important for programming.
+Algorithms help solve programming problems efficiently.
+C++ and Python are popular programming languages.
+Good algorithms improve software performance.

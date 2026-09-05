@@ -1,0 +1,4 @@
+C++ is a powerful programming language.
+C++ supports object oriented programming.
+Programming helps students solve real world problems.
+Good programming requires problem solving and logical thinking.

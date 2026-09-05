@@ -1,0 +1,4 @@
+Python is popular for artificial intelligence.
+Machine learning is an important field of artificial intelligence.
+Python is widely used in data science and automation.
+Artificial intelligence uses data and algorithms.
